@@ -8,6 +8,7 @@ def calc_circle_area(r):
     return pi*(r**2)
 
 """
+testest
 radius = [1, 2, -1, 0]
 for r in radius:
     print(f"r={r} area={calc_circle_area(r)}")
