@@ -1,3 +1,7 @@
+"""
+ Pull request from oandatest user
+"""
+
 from math import pi
 
 def calc_circle_area(r):
